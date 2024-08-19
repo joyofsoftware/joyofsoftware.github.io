@@ -1,1 +1,1 @@
-This is the home of **joy of software**
+**joy of software**
