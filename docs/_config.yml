@@ -3,6 +3,7 @@ theme: jekyll-theme-minimal
 title: Joy of Software
 description: musings at the confluence of data, software, and security
 logo: /assets/img/logo.png
+favicon: /assets/img/favicon.png
 show_downloads: false
 timezone: America/New_York
 google_analytics:
