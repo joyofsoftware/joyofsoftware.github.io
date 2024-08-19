@@ -1,8 +1,7 @@
-——-
+—
 layout: post
 title: “(un)Common Sense - Authentication 
-——-
-
+—
 Another day, another **Notice of Data Breach**. These notices are arriving with increasing frequency. However, today was a surprise. The US Postal Service delivered two incident notices: one from Ticketmaster and the other from Change Healthcare. Both provide the usual very cursory overview of the breaches. Fortunately, news and regulatory reporting provide insight into the impacts and underlying cause.
 
 Ticketmaster explains in a [notice](https://help.ticketmaster.com/hc/en-us/articles/26110487861137-Ticketmaster-Data-Security-Incident) that the data breach originated from an “isolated cloud database hosted by a third-party data services provider.” This suggests limited impact since only one database was breached. However, the [lawsuit](https://www.classaction.org/media/ryan-et-al-v-ticketmaster-llc-et-al.pdf) filed in California claims the entire database with 560 million customers was exposed.
