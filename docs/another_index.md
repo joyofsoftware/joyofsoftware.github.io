@@ -1,4 +1,4 @@
-**joy of software**
+**posts**
 
 <ul>
   {% for post in site.posts %}
