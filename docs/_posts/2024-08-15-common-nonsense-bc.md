@@ -5,4 +5,5 @@ author: earl
 tags: security
 ---
 
-Business continuity is an integral part of any effective information security program. 
+Business continuity is an integral part of any effective information security program.  
+
