@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (un)Common Sense - Multi-factor Authentication
+title: Common (non)Sense - Multi-factor Authentication
 author: earl
 tags: security
 ---

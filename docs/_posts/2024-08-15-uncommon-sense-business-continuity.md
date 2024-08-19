@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (un)Common Sense - Business Continuity 
+title: Common (non)Sense - Business Continuity 
 author: earl
 tags: security
 ---
