@@ -2,7 +2,7 @@
 layout: post
 title: (un)Common Sense - Multi-factor Authentication
 author: earl
-tag: security
+tags: security
 ---
 Another day, another **Notice of Data Breach**. These notices are arriving with increasing frequency. However, today was a surprise. The US Postal Service delivered two incident notices: one from Ticketmaster and the other from Change Healthcare. Both provide the usual very cursory overview of the breaches. Fortunately, news and regulatory reporting provide insight into the impacts and underlying cause.
 
