@@ -1,4 +1,4 @@
-**{{ site.date | date: "%-d %B %Y" }}**
+** **
 <ul>
   {% for post in site.posts %}
     <li>
