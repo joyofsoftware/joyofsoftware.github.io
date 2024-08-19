@@ -1,9 +1,0 @@
-# use the minimal jekyll theme for the site
-theme: jekyll-theme-minimal
-title: Joy of Software
-description: musings at the confluence of software, data, and security
-logo: /assets/img/joyofsoftware.png
-show_downloads: false
-timezone: America/New_York
-google_analytics:
-theme: jekyll-theme-minimal
