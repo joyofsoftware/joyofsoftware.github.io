@@ -1,9 +1,5 @@
 **joy of software**
 
-{{ site.logo }}
-
-{{ post.url }}
-
 <ul>
   {% for post in site.posts %}
     <li>
