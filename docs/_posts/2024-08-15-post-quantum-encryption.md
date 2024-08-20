@@ -13,9 +13,9 @@ In [December 2016](https://www.nist.gov/news-events/news/2016/12/nist-asks-publi
 
 FIPS 203 - a general encryption standard based on Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM).
 
-FIPS 204 - a digital signature standard based on the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)
+FIPS 204 - a digital signature standard based on Module-Lattice-Based Digital Signature Algorithm (ML-DSA)
 
-FIPS 205 - another digital signature standard based on Stateless Hash-Based Digital Signature Algorithm (SLH-DSA). FIPS 205 while slower than FIPS 204, but uses a different mathematical approach and is valuable as a backup standard.
+FIPS 205 - another digital signature standard based on Stateless Hash-Based Digital Signature Algorithm (SLH-DSA). FIPS 205 while slower than FIPS 204 uses a different mathematical approach and is valuable as a backup standard.
 
 A fourth standard is expected later this year with additional standards providing backup algorithms in development.
 
