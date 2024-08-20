@@ -19,4 +19,4 @@ FIPS 205 - another digital signature standard based on Stateless Hash-Based Digi
 
 A fourth standard is expected later this year with additional standards providing backup algorithms in development.
 
-Note: while the common public-key cryptographic systems are susceptible to quantum computing attacks, there is no similar quantum speed-up that affects other types of cryptography including the very popular symmetric key Advanced Encryption Standard (AES).
+Note: while the common public-key cryptographic systems are susceptible to quantum computing attacks, there is no similar quantum speed-up that affects other types of cryptography including the very popular symmetric-key Advanced Encryption Standard (AES).
