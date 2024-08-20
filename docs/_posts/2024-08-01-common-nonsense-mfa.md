@@ -4,7 +4,10 @@ title: Common (non)Sense - Multi-factor Authentication
 author: earl
 tags: security
 ---
-Another day, another **Notice of Data Breach**. These notices are arriving with increasing frequency. However, today was a surprise. The US Postal Service delivered two incident notices: one from Ticketmaster and the other from Change Healthcare. Both provide the usual very cursory overview of the breaches. Fortunately, news and regulatory reporting provide insight into the impacts and underlying cause.
+Another day, another _Notice of Data Breach_. Though these notices are arriving with increasing frequency, today was a surprise. The US Postal Service delivered two incident notices: one from Ticketmaster and the other from Change Healthcare. Both provide the usual very cursory overview of the breaches. Fortunately, news and regulatory reporting provide insight into the impacts and underlying cause.
+
+![Ticketmaster Notice of Data Breach](/assets/img/2024-07-17-ticketmaster.jpg)
+![Change Healthcare Notice of Data Breach](/assets/img/2024-07-29-changehealthcare.jpg)
 
 Ticketmaster explains in their [help center](https://help.ticketmaster.com/hc/en-us/articles/26110487861137-Ticketmaster-Data-Security-Incident) that the data breach originated from an “isolated cloud database hosted by a third-party data services provider.” This suggests limited impact since only one database was breached. However, the [lawsuit](https://www.classaction.org/media/ryan-et-al-v-ticketmaster-llc-et-al.pdf) filed in California claims that the database was exceptionally large with data of 560 million customers.
 
