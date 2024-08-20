@@ -20,7 +20,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <big><p>{{ site.description | default: site.github.project_tagline }}</p></big>
+        <big><big>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        </big></big>
 
 
         {% if site.show_downloads %}
