@@ -4,7 +4,7 @@
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a><br>
 	  <small>{{ post.date | date: "%B %Y" }}</small>
-      {{ post.excerpt }}
+      <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
