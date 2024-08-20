@@ -3,7 +3,7 @@ layout: post
 title: Common (non)Sense - Multi-factor Authentication
 author: earl
 tags: security
-excerpt: Another day, another _Notice of Data Breach_. Though these notices are arriving with increasing frequency, today was a surprise. The US Postal Service delivered two incident notices: one from Ticketmaster and the other from Change Healthcare.... These breaches can be prevented by using multi-factor authentication. Good security practices dictate the use of multi-factor authentication. Yet organizations continue to subject us to this all too common nonsense.
+excerpt: Another day, another Notice of Data Breach. Though these notices are arriving with increasing frequency, today was a surprise. The US Postal Service delivered two incident notices: one from Ticketmaster and the other from Change Healthcare.... These breaches can be prevented by using multi-factor authentication. Yet organizations continue to subject us to this all too common nonsense.
 ---
 Another day, another _Notice of Data Breach_. Though these notices are arriving with increasing frequency, today was a surprise. The US Postal Service delivered two incident notices: one from Ticketmaster and the other from Change Healthcare. Both provide the usual very cursory overview of the breaches. Fortunately, news and regulatory reporting provide insight into the impacts and underlying cause.
 
