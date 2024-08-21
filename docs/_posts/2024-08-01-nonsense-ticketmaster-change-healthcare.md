@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common (non)Sense - Multi-factor Authentication
+title: Common (non)Sense - Ticketmaster & Change Healthcare
 author: earl
 tags: security
 excerpt: Another day, another Notice of Data Breach. Though these notices are arriving with increasing frequency.... These breaches can be prevented by using multi-factor authentication. Yet organizations continue to subject us to this all too common nonsense.

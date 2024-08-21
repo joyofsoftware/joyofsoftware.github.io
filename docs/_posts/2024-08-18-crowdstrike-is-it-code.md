@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is It Code?
+title: CrowdStrike, is It Code?
 author: earl
 tags: software
 excerpt: There has already been considerable discussion about the CrowdStrike incident on 19 July 2024. There is finger pointing by CrowdStrike customers. Finger pointing between Microsoft and CrowdStrike.... On that fateful day in July, was the update that crashed 8.5 million Windows devices content or was the update code?
