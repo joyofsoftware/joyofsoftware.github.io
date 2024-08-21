@@ -17,6 +17,6 @@ FIPS 204 - a digital signature standard based on Module-Lattice-Based Digital Si
 
 FIPS 205 - another digital signature standard based on Stateless Hash-Based Digital Signature Algorithm (SLH-DSA). FIPS 205 while slower than FIPS 204 uses a different mathematical approach and is valuable as a backup standard.
 
-A fourth standard is expected later this year with additional standards providing backup algorithms in development.
+A fourth standard is expected later this year with additional standards providing backup algorithms in development. NIST is strongly encouraging wide adoption of the newly released standards.
 
 Note: while the common public-key cryptographic systems are susceptible to quantum computing attacks, there is no similar quantum speed-up that affects other types of cryptography including the very popular symmetric-key Advanced Encryption Standard (AES).
