@@ -17,7 +17,9 @@
       <header>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <a href="/index.html">
+            <img src="{{site.logo | relative_url}}" alt="Logo" />
+	      </a>
         {% endif %}
 
         <big><big>
@@ -39,7 +41,7 @@
 
       </section>
       <footer>
-		<p>by earl chen</p>
+		<p>by <a href="/about.html">earl chen</a></p>
 		<p></p>
         <p><small>Hosted on GitHub Pages &mdash; minimal theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
