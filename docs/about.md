@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /about.html
 ---
 Welcome to Joy of Software!
 Comments are encouraged, 
