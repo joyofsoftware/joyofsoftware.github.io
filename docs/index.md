@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /index.html
+---
 ***
 <ul>
   {% for post in site.posts %}
