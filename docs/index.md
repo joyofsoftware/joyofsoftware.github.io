@@ -2,7 +2,7 @@
 layout: default
 permalink: /index.html
 ---
-***
+<p></p>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -12,4 +12,4 @@ permalink: /index.html
     </li>
   {% endfor %}
 </ul>
-***
+<p></p>
