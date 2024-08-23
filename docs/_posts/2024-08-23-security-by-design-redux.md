@@ -3,7 +3,7 @@ layout: post
 title: Security by Design Redux 2024
 author: earl
 tags: software security
-excerpt: Lawfare just released a paper _Security by Design in Practice_ discussing the continuing evolution of the concepts and approaches of ensuring digital security. Seeing the “Security by Design” headline turned the clock back 16 years, to when we first used the term to headline our new security program.
+excerpt: Lawfare just released a paper discussing the continuing evolution of the concepts and approaches of ensuring digital security. Seeing the “Security by Design” headline turned the clock back 16 years, to when we first used the term to headline our new security program.
 ---
 Lawfare just released a paper [Security by Design in Practice](https://www.lawfaremedia.org/article/security-by-design--in-practice--assessing-concepts--definitions--and-approaches){:target="_blank"}{:rel="noopener noreferrer"} discussing the continuing evolution of the concepts and approaches of ensuring digital security. Seeing the _“Security by Design”_ headline turned the clock back 16 years, to when we first used the term to headline our new security program.
 
