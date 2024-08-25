@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+  background-color: #fff;
+  padding:3em;
+  font: 1em/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#525252;
+  font-weight:400;
+}
