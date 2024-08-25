@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Delta dis(Continuity) Again
+title: Delta dis(Continuity)
 author: earl
 tags: software security
 excerpt: Thanks to CrowdStrike, a little help from Microsoft, and maybe even some assistance from the European Union, Delta Airlines recently suffered an embarrassing systems outage, leading to thousands of flight cancellations and an estimated cost of over $500 million.
