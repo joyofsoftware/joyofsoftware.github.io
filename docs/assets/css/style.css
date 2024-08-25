@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 body {
   padding:3em;
-  font-size: 2em/1.5
+  font-size: 18px/1.5
   color:#525252;
 }
