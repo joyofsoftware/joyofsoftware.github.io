@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Security by Design Redux 2024
-author: earl
+author: Earl Chen
 tags: software security
 excerpt: Lawfare just released a paper discussing the continuing evolution of the concepts and approaches of ensuring digital security. Seeing the “Security by Design” headline turned the clock back 16 years, to when we first used the term to headline our new security program.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NIST Post-Quantum Encryption Standards
-author: earl
+author: Earl Chen
 tags: security
 excerpt: Quantum computers are often covered in the news with a doomsday message about how their computing power will render encryption obsolete and break the internet. The cryptographic community has been working diligently toward developing new algorithms and standards to provide encryption even as quantum computing capabilities continue to advance.
 ---
