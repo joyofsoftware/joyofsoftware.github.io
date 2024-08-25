@@ -12,7 +12,7 @@ You may notice that the Joy of Software logo looks very similar to the ubiquitou
 Joy is also my wife's name and she brings joy to me and many others, so that is a happy coincidence. 
 
 Comments are encouraged  
-via email at <earl@joyofsoftware.com>  
+via email <earl@joyofsoftware.com>  
 or
 via [LinkedIn](https://linkedin.com/in/earlchen){:target="_blanl"}{:rel="noopener noreferrer"}
 
