@@ -17,11 +17,11 @@ During the course of the support call the agent I spoke with was very patient an
 
 The agent told me **DO NOT** use a password manager. I should create a new password, **WRITE IT DOWN**, and then type it n exactly as written. I didn't respond immediately. I let the words echo around in my head. Then the sounds of Depeche Mode's _Enjoy the Silence_ ([Apple Music](https://music.apple.com/us/album/enjoy-the-silence/665415936?i=665416650){:target="_blank"}{:rel="noopener noreferrer"} or [Spotify](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh?si=lquk3k0KRPaIzNJTXihm0w){:target="_blank"}{:rel="noopener noreferrer"}) started to replace the voice of the agent: 
 
->Words like violence,
->Break the silence,
->Come crashing in,
->Into my little world,
->Painful to me,
+>Words like violence  
+>Break the silence  
+>Come crashing in  
+>Into my little world  
+>Painful to me  
 >Pierce right through me ...
 
 To the agent's credit, he was polite and patient. Despite my assertion that his recommendation was poor practice and against current security guidelines, he never argued and he never wavered in his position that password managers should not be used on the CapitalOne site. Unfortunately, even as I reset my password again he continued to see password entry errors and the call ended without resolving my login issue.
