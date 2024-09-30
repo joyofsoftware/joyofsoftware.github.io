@@ -5,7 +5,7 @@ author: earl
 tags: security
 excerpt: The latest NIST SP800-63B draft has two password behaviors that have finally moved from subway turnstile jumping SHOULD NOT to third rail touching SHALL NOT.
 ---
-[![Starbucks Password Silliness](/assets/img/2024-09-30-startbucks.jpg)](https://www.starbucks.com/account/reset-password/:token){:target="_blank"}{:rel="noopener noreferrer"}
+[![Starbucks Password Silliness](/assets/img/2024-09-30-starbucks.jpg)](https://www.starbucks.com/account/reset-password/:token){:target="_blank"}{:rel="noopener noreferrer"}
 
 In NIST parlance, SHALL NOT carries the weight of a decree. You should obey the rule and disobeying has significant consequences. SHALL NOT means the behavior must be avoided and avoidance is mandatory. In the NYC subway system, you SHALL NOT touch the third rail. Climbing from the safety of the subway platform onto the tracks and then reaching down and wrapping your highly conductive fingers around the energized third rail that powers subway cars will end in immediate spectacular death. A very serious consequence for doing when the guidance is SHALL NOT.
 
