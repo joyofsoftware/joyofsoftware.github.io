@@ -204,6 +204,9 @@ footer {
   header, section, footer {
     float:none;
     position:static;
+  }
+
+  section, footer {
     width:auto;
   }
 
