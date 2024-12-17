@@ -105,7 +105,7 @@ img {
 
 header {
   width:270px;
-  float:none;
+  float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -122,7 +122,7 @@ header ul {
 
 header li {
   width:89px;
-  float:none;
+  float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
 }
@@ -171,7 +171,7 @@ header ul a strong {
 
 section {
   width:500px;
-  float:none;
+  float:right;
   padding-bottom:50px;
 }
 
@@ -188,7 +188,7 @@ hr {
 
 footer {
   width:270px;
-  float:none;
+  float:left;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
