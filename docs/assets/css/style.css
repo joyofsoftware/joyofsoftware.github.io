@@ -223,6 +223,7 @@ footer {
 
   header a small {
     display:inline;
+    width:auto;
   }
 
   header ul {
