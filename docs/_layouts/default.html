@@ -8,7 +8,8 @@
     <link rel="icon" type="image/png" sizes="48x48" href="/assets/img/favicon-48x48.png">
     <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/img/favicon-180x180.png">
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <script src="{{ "/assets/js/noscale.js" | relative_url }}" async></script>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -47,6 +48,5 @@
 		  <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/noscale.js" | relative_url }}"></script>
   </body>
 </html>
