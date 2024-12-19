@@ -2,9 +2,13 @@
 layout: default
 ---
 <p></p>
-<small>{{ page.date | date: "%d %B %Y" }}</small>
 <h1>{{ page.title }}</h1>
-<p class="view">by {{ page.author | default: site.author }}</p>
+<small>{{ page.date | date: "%d %B %Y" }}</small>
+{% if page.guest_author %}
+  <p class="view">by {{ page.guest_author | default: site.author }}</p>
+{% else %}
+  <p></p>
+{% endif %}
 
 {{content}}
 

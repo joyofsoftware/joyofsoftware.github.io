@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raising the Bar, NIST Password Updates
-author: earl
+author: Earl Chen
 tags: security
 excerpt: The latest NIST SP800-63B draft has two password behaviors that have finally moved from subway turnstile jumping SHOULD NOT to third rail touching SHALL NOT.
 ---

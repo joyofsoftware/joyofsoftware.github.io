@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NIST SP800-63B and WHY! CapitalOne? 
-author: earl
+author: Earl Chen
 tags: security
 excerpt: Here we are on the eve of the publication of the updated NIST Digital Identity Guidelines. This has been in progress since 2020 and will update the guidelines last published in 2017. The most recent draft was released at the end of August and the final comment period comes to a close in October. The new official version is anticipated soon after. This happens to coincide with an disappointing experience trying to reset my credentials for online access with CapitalOne.
 ---

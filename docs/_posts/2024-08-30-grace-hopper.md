@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Timeless Lecture by Grace Hopper
-author: earl
+author: Earl Chen
 tags: data software security
 excerpt: The NSA has released a famous lecture given by Rear Admiral Grace Hopper to an NSA audience in August of 1982 titled "Future Possibilities Data, Hardware, Software and People."
 ---

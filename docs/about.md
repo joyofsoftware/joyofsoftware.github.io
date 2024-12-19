@@ -16,6 +16,6 @@ Joy is also my wife's name and she brings joy to me and many others, so that is 
 Comments are encouraged  
 via email <earl@joyofsoftware.com>  
 or
-via [LinkedIn](https://linkedin.com/in/earlchen){:target="_blanl"}{:rel="noopener noreferrer"}
+via [LinkedIn](https://linkedin.com/in/earlchen){:target="_blank"}{:rel="noopener noreferrer"}
 
 <p></p>
