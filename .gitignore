@@ -1,7 +1,6 @@
 _site
 _drafts
-../altdocs
-../assets
+altdocs/
 .sass-cache
 .jekyll-cache
 .jekyll-metadata

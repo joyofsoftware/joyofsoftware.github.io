@@ -219,10 +219,10 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
+ /*   border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
-    margin:0 0 20px;
+    margin:0 0 20px; */
   }
 
   header a small {
@@ -256,7 +256,7 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding:15px;
+    padding:0px;
   }
 
   header ul {
