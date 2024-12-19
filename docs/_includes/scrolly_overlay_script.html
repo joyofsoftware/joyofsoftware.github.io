@@ -44,9 +44,13 @@
 
 		// update figure based on step
 		// figures need to be named page.slug-0.png, page.slug-1.png, page.slug-2.png, etc
-      var imageTag='<img src="\\assets\\img\\' + pageslug + '-' + (response.index + 1) + '.png">'
+//    step.classed("is-active", function (d, i) {
+      var imageTag='<img src="\\assets\\img\\' + pageslug + '-' + response.index + '.png">'
       console.log(imageTag);
       figure.select(".figure-box").html(imageTag)
+//    });
+
+
   }
 
   function init() {
@@ -55,16 +59,15 @@
     handleResize();
 
     // 2. setup the scroller passing options
-    //     this will also initialize trigger observations
+    // 		this will also initialize trigger observations
     // 3. bind scrollama event handlers (this can be chained like below)
     scroller
       .setup({
         step: "#scrolly article .step",
-        offset: .3,
+        offset: 0.3,
         debug: false
       })
       .onStepEnter(handleStepEnter);
-      
     // force a stepEnter to display everything before scrolling
     var stepDiv = document.createElement("div");
     stepDiv.className = "step";

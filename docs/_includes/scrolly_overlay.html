@@ -1,28 +1,21 @@
 <style>
   #scrolly {
     position: relative;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
     background-color: #ffffff;
-    padding: 0;
-  }
-
-  #scrolly>* {
-    -webkit-box-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
+    padding: 0rem;
   }
 
   article {
     position: relative;
-    padding: 0rem;
-    max-width: 40rem;
+    padding: 0;
+    width: 100%;
+    margin: 0 auto;
   }
 
   figure {
     position: -webkit-sticky;
     position: sticky;
+    left: 0;
     width: 100%;
     margin: 0;
     -webkit-transform: translate3d(0, 0, 0);
@@ -48,7 +41,6 @@
 
   .step {
     margin: 0 auto 2rem auto;
-    background-color: none;
     color: #999999;
   }
 
@@ -56,8 +48,8 @@
     margin-bottom: 0;
   }
 
-  .step.is-active {
-    background-color: none;
+  .step.is-active p {
+    background-color: #ffffff;
     color: #595959;
   }
 
@@ -65,5 +57,6 @@
     text-align: left;
     padding: 0rem;
     font-size: 1rem;
+    background-color: #ffffff;
   }
 </style>
