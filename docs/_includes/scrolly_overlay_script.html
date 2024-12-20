@@ -8,6 +8,20 @@
   var article = scrolly.select("article");
   var step = article.selectAll(".step");
   var pageslug = '{{ page.name | slugify }}';
+  // set up array of figures depending on the front matter
+  // Links => all the figures are sourced from external links
+  // Text => all the figures are text and will be rendered prior to display
+  // default => the figures are in /assets/img/ and named page.slug-0.png, page.slug-1.png, page.slug-2.png, etc
+  {% if page.scrolly_images == "Image" %}
+    // get the image tags from the file /assets/includes/pageslug-images.html
+    {% capture imageFileName %}{{ page.name | slugify }}-image.html{% endcapture %}
+    {% include {{ imageFileName }} %}
+  {% elsif page.scrolly_images == "Text" %}
+    // build text boxes based on array of text
+  {% else %}
+    // by default we don't build an array of tags here instead
+    // the tag is built in handleStepEnter
+  {% endif %}
 
   // initialize the scrollama
   var scroller = scrollama();
@@ -43,13 +57,18 @@
     // figure.select("p").text(response.index + 1);
 
 		// update figure based on step
-		// figures need to be named page.slug-0.png, page.slug-1.png, page.slug-2.png, etc
-//    step.classed("is-active", function (d, i) {
-      var imageTag='<img src="\\assets\\img\\' + pageslug + '-' + response.index + '.png">'
-      console.log(imageTag);
-      figure.select(".figure-box").html(imageTag)
-//    });
-
+    var imageTag='';
+    {% if page.scrolly_images == "Image" %}
+      imageTag=figureTags[response.index];
+    {% elsif page.scrolly_images == "Text" %}
+      // build text based on array of text initialized earlier
+      imageTag='<p style="color: #BBBBBB;">Joy of Software' + response.index + '</p>';
+    {% else %}
+      // by default figures need to be named page.slug-0.png, page.slug-1.png, page.slug-2.png, etc
+      var imageTag='<img src="\\assets\\img\\' + pageslug + '-' + response.index + '.png">';
+    {% endif %}
+    console.log(imageTag);
+    figure.select(".figure-box").html(imageTag);
 
   }
 
